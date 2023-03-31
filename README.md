@@ -1,1 +1,1 @@
-# Lectures on MatStat in AI-Masters 2023 fall
+# Lectures on MatStat in AI-Masters 2023 spring
